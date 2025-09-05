@@ -34,3 +34,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# stagehand specific
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# environment variables
+.env
+.env.local
+.env.*.local
